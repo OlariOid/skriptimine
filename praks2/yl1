@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#Tervitab kasutajat
+
+#Väljastab teksti Tere user!
+
+echo "Tere, user!"  
